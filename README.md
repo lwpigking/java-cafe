@@ -9,14 +9,22 @@
 这里面可能都是垃圾，但你仍然可以垃圾里面寻找金子~
 # Java后端
 
+* Java学习代码 https://github.com/MoonShlne/Java-Learn
+
 # H5前端
 
+* 浙江理工大学科技与艺术学院官网（Vue版）：https://github.com/lwpigking/kyzstu
+
 # 大数据
+
+* 地铁客流大数据分析系统：https://github.com/lwpigking/bigdata-analysis-for-subway
 
 # 机器学习与数据挖掘
 
 # C语言
 
 # Matlab
+
+* matlab人脸识别：https://github.com/lwpigking/face-recognition-matlab
 
 # 嵌入式

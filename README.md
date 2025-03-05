@@ -1,6 +1,6 @@
 # Java-Cafe
 
-**Java-Cafe** 是一个用于存放我各种各样项目的仓库。这里面有很多不同的技术和内容，虽然有些项目可能不太完善，但它们是我们学习、实践、实验的产物。
+**Java-Cafe** 是一个用于存放我们各种各样项目的仓库。这里面有很多不同的技术和内容，虽然有些项目可能不太完善，但它们是我们学习、实践、实验的产物。
 
 你可能会问，这里到底都有什么？我也不太清楚~ 反正所有我们做过的工程、笔记和一些随手存放的东西都会放在这里。
 
@@ -28,3 +28,49 @@
 ## Java后端
 
 * Java_Learn
+* ssm-tutorial
+* SpringBoot-headline
+* mysql-score
+
+## H5前端
+
+* atguigu-gmall
+* atguigu-syx
+* kyzstu-web
+* kyzstu
+
+## 大数据
+
+* flink-tutorial
+* shtd_store
+* anaylysis-of-the-employment-situation
+* bigdata-analysis-for-subway
+
+## 机器学习与数据挖掘
+
+* sales-forecasts
+* jd-hadoop
+* analysis-of-recruitment
+* anaylysis-of-WorldCup
+* bidding-analysis
+* Special-vehicels-for-bulk-cement
+
+## C语言
+
+* c-tutorial
+* c-book-management
+* c-student-management
+
+## matlab
+
+* face-recognition-matlab
+
+## 嵌入式
+
+* pcb-practice
+* esp-practice
+* 51-tutorial
+* arduino-tutorial
+* msp430-tutorial
+* msp430-practice
+* msp430g2553-traffic-light
